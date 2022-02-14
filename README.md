@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/java-sample-project/ado-kt/_apis/build/status/Kunuthuru-RaghavendraReddy001.pipelines-java?branchName=master)](https://dev.azure.com/java-sample-project/ado-kt/_build/latest?definitionId=28&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a

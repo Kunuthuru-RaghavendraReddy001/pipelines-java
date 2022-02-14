@@ -8,7 +8,7 @@ trigger:
 
 
 pool:
-  vmImage: $(imageName)
+  vmImage: windows-latest
 strategy:
   matrix:
     jdk10:

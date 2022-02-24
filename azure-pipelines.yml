@@ -17,7 +17,7 @@ strategy:
   maxParallel: 2
 
 pool:
-  vmImage: windows-latest
+  name: Cloud
 
 steps:
 - task: Maven@3
